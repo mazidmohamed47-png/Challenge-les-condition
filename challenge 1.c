@@ -10,6 +10,6 @@ int main()
     if (N % 2==0)
         printf("le nober %d est pair .",N);
     else
-        printf("le nober %d est impair .",N);
+        printf("le nomber %d est impair .",N);
     return 0;
 }
